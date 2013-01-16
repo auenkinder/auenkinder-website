@@ -84,5 +84,10 @@ fclose($tabelle);
 
 			</div>
 			</div>
+
+			
+</div>
+</div>
+</div>
 </body>
 </html>
